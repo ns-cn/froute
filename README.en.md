@@ -1,7 +1,7 @@
 # froute
 
 #### Description
-一个高性能http-handler分发
+一个http-handler分发处理项目
 
 #### Software Architecture
 Software architecture description

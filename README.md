@@ -1,7 +1,7 @@
 # froute
 
 #### 介绍
-一个高性能http-handler分发
+一个http-handler分发处理项目
 
 #### 软件架构
 软件架构说明
